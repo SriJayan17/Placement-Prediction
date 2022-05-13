@@ -1,0 +1,3 @@
+# Placement-Prediction
+## Introduction:
+In the recent times, getting placed in a company is a difficult task for the students as the competition and the requirements for the role keeps on increasing. In order to get placed in a reputed company with a decent package, students should enhance their skills and need to identify the areas in which they are weak and need to improve such as communication skills, aptitude, etc. So, we have planned to develop a Campus placement prediction system which helps the students to predict their chances of getting placed and if the prediction result is negative, then the application will recommend some resources which the user can access to improve the performance that eventually increase the chances of the student to get placed.
